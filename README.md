@@ -18,4 +18,21 @@ This repository contains an implementation of a phishing detection model using a
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/phishing-detection-rfc.git
+   git clone https://github.com/gokuls-subramanian/PHISHING_DETECTION-WITH-RFC
+   
+2. Install Dependencies:
+
+   ```bash
+   pip install -r requirements.txt
+
+ ## Working
+ 1. Dataset Collection: Gather a diverse dataset containing features indicative of phishing and legitimate websites.
+
+ 2. Preprocessing: Clean and preprocess the data, extracting relevant features and preparing it for model training.
+
+ 3. Model Training: Employ a Random Forest Classifier to train the model on the preprocessed dataset for robust phishing detection.
+
+ 4. Validation and Evaluation: Assess the model's performance using validation data, ensuring accuracy, precision, and recall metrics are satisfactory.
+
+ 5. Deployment: Implement the trained model into a practical application for real-time phishing detection, enhancing cybersecurity measures.
+
