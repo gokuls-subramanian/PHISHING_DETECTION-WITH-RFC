@@ -36,3 +36,7 @@ This repository contains an implementation of a phishing detection model using a
 
  5. Deployment: Implement the trained model into a practical application for real-time phishing detection, enhancing cybersecurity measures.
 
+ ## Video
+ https://github.com/gokuls-subramanian/PHISHING_DETECTION-WITH-RFC/assets/96585296/3ec31f04-db90-4a86-bc9b-4c107334e283
+
+
